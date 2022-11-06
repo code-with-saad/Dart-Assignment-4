@@ -63,20 +63,20 @@ void main() {
 
   // print("Enter your first number:");
   // int? num1 = int.parse(stdin.readLineSync()!);
+  // print("Enter operator:");
+  // var operation = stdin.readLineSync();
   // print("Enter your second number:");
   // int? num2 = int.parse(stdin.readLineSync()!);
-  // print("Enter operation number:");
-  // var operation = stdin.readLineSync();
-
-  // if (operation == 'add') {
+  
+  // if (operation == '+') {
   //   print(num1 + num2);
-  // } else if (operation == 'sub') {
+  // } else if (operation == '-') {
   //   print(num1 - num2);
-  // } else if (operation == 'mult') {
+  // } else if (operation == '*') {
   //   print(num1 * num2);
-  // } else if (operation == 'divide') {
+  // } else if (operation == '/') {
   //   print(num1 / num2);
-  // } else if (operation == 'mode') {
+  // } else if (operation == '%') {
   //   print(num1 % num2);
   // } else {
   //   print("wrong operation");
